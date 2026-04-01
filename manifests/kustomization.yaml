@@ -3,4 +3,4 @@ kind: Kustomization
 namespace: sample-1-qb9sv  # Replace with your exact workspace namespace
 
 resources:
-  - kubernetes-manifests.yaml
+  - kubernetes-manifest.yaml
