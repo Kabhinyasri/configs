@@ -1,6 +1,6 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
-namespace: sample-1-qb9sv  # Replace with your exact workspace namespace
+namespace: sample-2-2mzv5  # Replace with your exact workspace namespace
 
 resources:
   - kubernetes-manifest.yaml
